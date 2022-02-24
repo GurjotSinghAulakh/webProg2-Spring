@@ -6,7 +6,7 @@ GitHub brukernavn: GurjotSinghAulakh
 
 GitHub repo URL: https://github.com/DATA1700/oblig-2-GurjotSinghAulakh
 
-URL til Heroku app: https://oblig-2-gurjotsinghaulakh.herokuapp.com/
+URL til Heroku app: https://webprog2-project-spring.herokuapp.com/
 
 Fullt navn: Gurjot Singh Aulakh
 
