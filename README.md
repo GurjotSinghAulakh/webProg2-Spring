@@ -1,9 +1,3 @@
-Oblig 2
-=======
-OsloMet brukernavn: s351873
-
-GitHub brukernavn: GurjotSinghAulakh
-
 GitHub repo URL: https://github.com/DATA1700/oblig-2-GurjotSinghAulakh
 
 URL til Heroku app: https://webprog2-project-spring.herokuapp.com/
